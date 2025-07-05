@@ -27,16 +27,18 @@ export default function RelationshipCounselingPage() {
           </div>
           <div className="space-y-4 text-base sm:text-lg leading-relaxed">
             <p>
-              Every relationship faces challenges. Whether you're a couple navigating communication issues, trust concerns, or life transitions — or an individual reflecting on relationship patterns — therapy can offer clarity and growth.
+              Every relationship faces challenges. Whether you&apos;re a couple navigating communication issues, trust concerns, or life transitions — or an individual reflecting on relationship patterns — therapy can offer clarity and growth.
             </p>
             <p>
-              Dr. Serena Blake creates a nonjudgmental space where both partners are heard and understood. With a blend of emotionally focused therapy and practical tools, you’ll work together to restore connection and foster emotional safety.
+              Dr. Serena Blake creates a nonjudgmental space where both partners are heard and understood. With a blend of emotionally focused therapy and practical tools, you&apos;ll work together to restore connection and foster emotional safety.
             </p>
             <p>
-              Let’s begin your path toward deeper connection, empathy, and trust.
+              Let&apos;s begin your path toward deeper connection, empathy, and trust.
             </p>
           </div>
         </div>
+
+        <div className="h-16"></div> {/* Additional space after service section */}
 
         <div className="text-center">
           <Link href="/">

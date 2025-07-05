@@ -11,7 +11,7 @@ export default function AnxietyStressPage() {
         <div className="text-center">
           <h1 className="text-4xl sm:text-5xl font-serif text-blue-900 mb-4 leading-snug">Anxiety & Stress Management</h1>
           <p className="text-lg sm:text-xl italic text-gray-700">
-            Navigate life's pressures with tools that build resilience and calm.
+            Navigate life&#39;s pressures with tools that build resilience and calm.
           </p>
         </div>
 
@@ -30,13 +30,15 @@ export default function AnxietyStressPage() {
               At times, stress and anxiety can feel overwhelming. Our personalized therapy sessions provide a safe space to explore your feelings, identify triggers, and learn effective coping strategies.
             </p>
             <p>
-              Whether it's work pressure, personal struggles, or a racing mind, Dr. Serena Blake will guide you through techniques like mindfulness, cognitive-behavioral therapy, and relaxation practices to help you regain control.
+              Whether it&#39;s work pressure, personal struggles, or a racing mind, Dr. Serena Blake will guide you through techniques like mindfulness, cognitive-behavioral therapy, and relaxation practices to help you regain control.
             </p>
             <p>
               Sessions are available both in-person and online. Your journey to peace of mind begins here.
             </p>
           </div>
         </div>
+
+        <div className="h-16"></div> {/* Additional space after service section */}
 
         <div className="text-center">
           <Link href="/">
